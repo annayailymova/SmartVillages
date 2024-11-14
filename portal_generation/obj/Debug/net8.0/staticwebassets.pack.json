@@ -1,0 +1,269 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\images\\mmda.png",
+      "PackagePath": "staticwebassets\\images\\mmda.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\images\\sample_background.jpg",
+      "PackagePath": "staticwebassets\\images\\sample_background.jpg"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\js\\mon_products.js",
+      "PackagePath": "staticwebassets\\js\\mon_products.js"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\js\\toggle_tabs.js",
+      "PackagePath": "staticwebassets\\js\\toggle_tabs.js"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\3mob.json",
+      "PackagePath": "staticwebassets\\products\\MON\\3mob.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\3mob.png",
+      "PackagePath": "staticwebassets\\products\\MON\\3mob.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\banks.json",
+      "PackagePath": "staticwebassets\\products\\MON\\banks.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\churches.json",
+      "PackagePath": "staticwebassets\\products\\MON\\churches.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\city.json",
+      "PackagePath": "staticwebassets\\products\\MON\\city.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\edu.json",
+      "PackagePath": "staticwebassets\\products\\MON\\edu.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\elev.json",
+      "PackagePath": "staticwebassets\\products\\MON\\elev.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_banks.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_banks.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_church.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_church.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_city.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_city.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_edu.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_edu.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_elev.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_elev.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_hospital.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_hospital.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_hotel.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_hotel.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_kinder.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_kinder.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_libr.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_libr.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_park.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_park.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\heat_shop.png",
+      "PackagePath": "staticwebassets\\products\\MON\\heat_shop.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\hospital.json",
+      "PackagePath": "staticwebassets\\products\\MON\\hospital.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\hotel.json",
+      "PackagePath": "staticwebassets\\products\\MON\\hotel.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\k_3g.json",
+      "PackagePath": "staticwebassets\\products\\MON\\k_3g.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\k_3g.png",
+      "PackagePath": "staticwebassets\\products\\MON\\k_3g.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\k_4g.json",
+      "PackagePath": "staticwebassets\\products\\MON\\k_4g.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\k_4g.png",
+      "PackagePath": "staticwebassets\\products\\MON\\k_4g.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\kinder.json",
+      "PackagePath": "staticwebassets\\products\\MON\\kinder.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\libr.json",
+      "PackagePath": "staticwebassets\\products\\MON\\libr.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\life_3g.json",
+      "PackagePath": "staticwebassets\\products\\MON\\life_3g.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\life_3g.png",
+      "PackagePath": "staticwebassets\\products\\MON\\life_3g.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\life_4g.json",
+      "PackagePath": "staticwebassets\\products\\MON\\life_4g.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\life_4g.png",
+      "PackagePath": "staticwebassets\\products\\MON\\life_4g.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\nova_post.json",
+      "PackagePath": "staticwebassets\\products\\MON\\nova_post.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\nova_post.png",
+      "PackagePath": "staticwebassets\\products\\MON\\nova_post.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\occupation.json",
+      "PackagePath": "staticwebassets\\products\\MON\\occupation.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\occupation.png",
+      "PackagePath": "staticwebassets\\products\\MON\\occupation.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\park.json",
+      "PackagePath": "staticwebassets\\products\\MON\\park.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\poshta.json",
+      "PackagePath": "staticwebassets\\products\\MON\\poshta.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\poshta.png",
+      "PackagePath": "staticwebassets\\products\\MON\\poshta.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\powerlines.json",
+      "PackagePath": "staticwebassets\\products\\MON\\powerlines.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\powerlines.png",
+      "PackagePath": "staticwebassets\\products\\MON\\powerlines.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\prime_roads.json",
+      "PackagePath": "staticwebassets\\products\\MON\\prime_roads.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\prime_roads.png",
+      "PackagePath": "staticwebassets\\products\\MON\\prime_roads.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\rdi-interactive.json",
+      "PackagePath": "staticwebassets\\products\\MON\\rdi-interactive.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\rdi.json",
+      "PackagePath": "staticwebassets\\products\\MON\\rdi.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\rdi.png",
+      "PackagePath": "staticwebassets\\products\\MON\\rdi.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\rdi_mcdm_interactive.html",
+      "PackagePath": "staticwebassets\\products\\MON\\rdi_mcdm_interactive.html"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\rdl-interactive.json",
+      "PackagePath": "staticwebassets\\products\\MON\\rdl-interactive.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\rdl.json",
+      "PackagePath": "staticwebassets\\products\\MON\\rdl.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\rdl.png",
+      "PackagePath": "staticwebassets\\products\\MON\\rdl.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\rdl_graph_interactive.html",
+      "PackagePath": "staticwebassets\\products\\MON\\rdl_graph_interactive.html"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\second_roads.json",
+      "PackagePath": "staticwebassets\\products\\MON\\second_roads.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\second_roads.png",
+      "PackagePath": "staticwebassets\\products\\MON\\second_roads.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\shop.json",
+      "PackagePath": "staticwebassets\\products\\MON\\shop.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\v_3g.json",
+      "PackagePath": "staticwebassets\\products\\MON\\v_3g.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\v_3g.png",
+      "PackagePath": "staticwebassets\\products\\MON\\v_3g.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\v_4g.json",
+      "PackagePath": "staticwebassets\\products\\MON\\v_4g.json"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\products\\MON\\v_4g.png",
+      "PackagePath": "staticwebassets\\products\\MON\\v_4g.png"
+    },
+    {
+      "Id": "E:\\Work\\MON-KPI\\MON\\wwwroot\\references\\MON.json",
+      "PackagePath": "staticwebassets\\references\\MON.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MON.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MON.props",
+      "PackagePath": "build\\MON.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MON.props",
+      "PackagePath": "buildMultiTargeting\\MON.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MON.props",
+      "PackagePath": "buildTransitive\\MON.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

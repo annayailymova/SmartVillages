@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Technological Infrastructure",
+    "Title": "3Mob",
+    "Id": "3mob",
+    "Icon": "fas fa-signal",
+    "Iframe": "",
+    "Image": "../products/MON/3mob.png",
+    "Description": "This map illustrates the 3G coverage of the 3Mob mobile network provider, based on data sourced from MobUA as of 2023.<br><br>As shown, 3Mob's coverage is limited to the city of Kyiv."
+}

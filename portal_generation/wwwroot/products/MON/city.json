@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Transport and Logistics",
+    "Title": "Cities",
+    "Id": "city",
+    "Icon": "fa-solid fa-city",
+    "Iframe": "",
+    "Image": "../products/MON/heat_city.png",
+    "Description": "This map shows the distribution and number of cities (relative to the center) within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>The distribution of cities is fairly even, except for western regions, Donetsk region, and the outskirts of Kyiv."
+}

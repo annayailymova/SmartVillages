@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Transport and Logistics",
+    "Title": "Primary roads",
+    "Id": "prime_roads",
+    "Icon": "fas fa-road",
+    "Iframe": "",
+    "Image": "../products/MON/prime_roads.png",
+    "Description": "This map shows the distribution of primary roads in Ukraine, based on data sourced from OpenStreetMap as of 2023.<br><br>The map reveals that primary roads mainly connect neighboring regions, with key hubs located in regional centers and large cities."
+}

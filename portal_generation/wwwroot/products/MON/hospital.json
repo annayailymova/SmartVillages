@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Socio-cultural Infrastructure",
+    "Title": "Hospitals",
+    "Id": "hospital",
+    "Icon": "fas fa-hospital",
+    "Iframe": "",
+    "Image": "../products/MON/heat_hospital.png",
+    "Description": "This map shows the number of medical facilities within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>It is clear that regional centers and large cities have the highest concentration of medical facilities due to their large populations. Key hotspots include Kyiv, Lviv, Dnipro, Donetsk, and Kharkiv. An interesting anomaly is the high density of medical facilities on the border between Cherkasy and Vinnytsia regions."
+}

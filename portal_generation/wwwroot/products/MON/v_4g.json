@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Technological Infrastructure",
+    "Title": "Vodafone 4G",
+    "Id": "v_4g",
+    "Icon": "fas fa-signal",
+    "Iframe": "",
+    "Image": "../products/MON/v_4g.png",
+    "Description": "This map shows the 4G coverage of the Vodafone mobile network, based on data sourced from MobUA as of 2023.<br><br>The map reveals that nearly the entire territory of Ukraine, with the exception of some mountainous and hard-to-reach areas, has access to the 4G network. Central, northern, and western regions have the best coverage, and the southern coastal areas are also well covered, though less densely.<br><br>Occupied territories, such as Crimea and parts of Donetsk and Luhansk regions, do not have coverage."
+}

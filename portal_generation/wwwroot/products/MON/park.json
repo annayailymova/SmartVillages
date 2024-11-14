@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Socio-cultural Infrastructure",
+    "Title": "Parks",
+    "Id": "park",
+    "Icon": "fas fa-tree",
+    "Iframe": "",
+    "Image": "../products/MON/heat_park.png",
+    "Description": "This map shows the number of parks within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>The map reveals that parks are less common in the southern regions of Ukraine. Furthermore, regional centers do not necessarily have a higher concentration of parks compared to other cities. Exceptions include Lviv, Cherkasy, Odesa, Ivano-Frankivsk, Chernivtsi, Poltava, and Chernihiv. Notably, Kamianets-Podilskyi has the highest park density in Ukraine."
+}

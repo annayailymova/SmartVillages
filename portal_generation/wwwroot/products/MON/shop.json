@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Economic Infrastructure",
+    "Title": "Shops",
+    "Id": "shop",
+    "Icon": "fas fa-store",
+    "Iframe": "",
+    "Image": "../products/MON/heat_shop.png",
+    "Description": "This map shows the number of shops within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>It is evident that shops are concentrated in large cities with high populations and economic activity, as well as in tourist hotspots."
+}

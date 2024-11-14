@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Technological Infrastructure",
+    "Title": "Life 4G",
+    "Id": "life_4g",
+    "Icon": "fas fa-signal",
+    "Iframe": "",
+    "Image": "../products/MON/life_4g.png",
+    "Description": "This map shows the 4G coverage of the Lifecell mobile network, based on data sourced from MobUA as of 2023.<br><br>As shown, most of Ukraine is covered by 4G, particularly in the central and eastern regions. The western and southern regions also have coverage, but it is less dense and features more \"white spots\" (zones without service). Occupied territories, such as Crimea and parts of Donetsk and Luhansk regions, obviously lack coverage.<br><br>Overall, Lifecell provides fairly strong 4G coverage, especially in large cities and regional centers, matching the high population density and demand for mobile internet."
+}

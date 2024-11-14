@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Economic Infrastructure",
+    "Title": "Banks",
+    "Id": "banks",
+    "Icon": "fas fa-university",
+    "Iframe": "",
+    "Image": "../products/MON/heat_banks.png",
+    "Description": "This heatmap displays the number of banks located within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>It is evident that the highest density of banks is found in major cities such as Kyiv, Lviv, Odesa, Kharkiv, Dnipro, Kryvyi Rih, and Donetsk. In smaller towns, bank concentration is much lower.<br><br>This distribution likely reflects the economic activity and population density of these cities, as both directly influence the demand for banking services. The development of transport and information infrastructure, along with the centralization of financial institutions, contributes to the establishment of banks primarily in larger cities."
+}

@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Socio-cultural Infrastructure",
+    "Title": "Hotels",
+    "Id": "hotel",
+    "Icon": "fa-solid fa-hotel",
+    "Iframe": "",
+    "Image": "../products/MON/heat_hotel.png",
+    "Description": "This map shows the number of hotels within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>As expected, cities with large populations or tourist attractions have a high concentration of hotels, while rural areas typically do not. Aside from regional centers, coastal areas in Odesa region and Crimea have a high density of hotels due to their status as traditional resort regions."
+}

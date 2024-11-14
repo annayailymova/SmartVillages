@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Socio-cultural Infrastructure",
+    "Title": "Libraries",
+    "Id": "libr",
+    "Icon": "fas fa-book",
+    "Iframe": "",
+    "Image": "../products/MON/heat_libr.png",
+    "Description": "This map shows the number of libraries within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>Overall, libraries are relatively scarce across Ukraine and are mainly found in urban areas. Due to larger populations, regional centers and large cities have a significantly higher concentration of libraries compared to smaller towns."
+}

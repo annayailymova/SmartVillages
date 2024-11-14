@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Socio-cultural Infrastructure",
+    "Title": "Education Institutions",
+    "Id": "edu",
+    "Icon": "fas fa-school",
+    "Iframe": "",
+    "Image": "../products/MON/heat_edu.png",
+    "Description": "This heatmap displays the number of educational institutions within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>There is a noticeable increase in concentration around regional centers and large cities. Notably, Lviv region has a higher concentration of educational facilities in both urban and rural areas.<br><br>It is clear that regional centers and large cities have larger populations, which creates higher demand for educational institutions. The higher concentration in Lviv may be due to more investments in educational infrastructure, migration flows that increase the need for additional schools and universities, and the region’s historically strong educational traditions."
+}

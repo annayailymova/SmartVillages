@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Socio-cultural Infrastructure",
+    "Title": "Kindergartens",
+    "Id": "kinder",
+    "Icon": "fas fa-school",
+    "Iframe": "",
+    "Image": "../products/MON/heat_kinder.png",
+    "Description": "This map shows the number of kindergartens within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>It is clear that kindergartens are mostly concentrated in urban areas and are underrepresented in rural regions. This is likely due to population differences between cities and villages. As a result, the highest concentration of kindergartens can be found in regional centers and large cities."
+}

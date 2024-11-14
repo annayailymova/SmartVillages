@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Other",
+    "Title": "Life risk relative to occupation zone",
+    "Id": "occupation",
+    "Icon": "fa-solid fa-asterisk",
+    "Iframe": "",
+    "Image": "../products/MON/occupation.png",
+    "Description": "This map shows the occupation zone and life risk relative to distance to the occupation zone."
+}

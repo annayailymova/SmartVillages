@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Technological Infrastructure",
+    "Title": "Life 3G",
+    "Id": "life_3g",
+    "Icon": "fas fa-signal",
+    "Iframe": "",
+    "Image": "../products/MON/life_3g.png",
+    "Description": "This map shows the 3G coverage of the Lifecell mobile network, based on data sourced from MobUA as of 2023.<br><br>It is clear that 3G coverage is strong only in specific regions, such as Kyiv, Odesa, Kharkiv, Dnipropetrovsk, Lviv, Zakarpattia, Ivano-Frankivsk, and Chernihiv. In other regions, coverage is patchy, with connectivity available only in select settlements."
+}

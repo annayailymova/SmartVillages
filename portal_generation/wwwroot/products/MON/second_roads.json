@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Transport and Logistics",
+    "Title": "Secondary roads",
+    "Id": "second_roads",
+    "Icon": "fas fa-road",
+    "Iframe": "",
+    "Image": "../products/MON/second_roads.png",
+    "Description": "This map shows the distribution of secondary roads in Ukraine, based on data sourced from OpenStreetMap as of 2023.<br><br>Apart from the southern regions, these roads have a high coverage density."
+}

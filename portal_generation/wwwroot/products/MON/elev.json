@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Economic Infrastructure",
+    "Title": "Grain Elevators",
+    "Id": "elev",
+    "Icon": "fas fa-warehouse",
+    "Iframe": "",
+    "Image": "../products/MON/heat_elev.png",
+    "Description": "This map shows the number of grain elevators (storage facilities) within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023."
+}

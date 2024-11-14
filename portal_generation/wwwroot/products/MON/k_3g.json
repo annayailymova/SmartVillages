@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Technological Infrastructure",
+    "Title": "Kyivstar 3G",
+    "Id": "k_3g",
+    "Icon": "fas fa-signal",
+    "Iframe": "",
+    "Image": "../products/MON/k_3g.png",
+    "Description": "This map shows the 3G coverage of the Kyivstar mobile network, based on data sourced from MobUA as of 2023.<br><br>Aside from large cities, good coverage is found in settlements in central and western Ukraine."
+}

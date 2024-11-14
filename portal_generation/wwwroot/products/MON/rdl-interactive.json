@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Rural Development",
+    "Title": "Rural Development Level (Graph model) - Interactive",
+    "Id": "rdl-interactive",
+    "Icon": "fas fa-map",
+    "Iframe": "../products/MON/rdl_graph_interactive.html",
+    "Image": "",
+    "Description": "This is an interactive map of Rural Development Level (RDL) values for settlements in rural areas, based on <b>graph model</b>. By hovering over points on the map, you can see the settlement name, postal code, and RDL value.<br><br>Nearly one-third of rural areas in Ukraine (35.67% or 10122  villages) have a moderate development level. Almost quater (26.86% or 7623  villages) have a high development level. Fifth part (20.75%, 5889) of villages have a very low devepment. The low development was observed in 13.74% or 3899 villages, while only 2.98% (847) of villages have very high development level.<br><br>The map was developed using a geospatial analysis framework that utilizes graph models to represent rural infrastructure accessibility in Ukraine. Specialized algorithms calculated shortest paths, creating graph-based linkages between villages and nearby infrastructure elements. This process produced a graph-structured dataset that links villages to their nearest POIs (points of interest), providing insights into the accessibility of critical amenities and highlighting areas with infrastructure gaps. Statistical methods were then used to verify the data, ensuring that the graph’s representations were consistent with initial village accessibility measures. The POIs include socio-cultural infrastructure (such as schools, kindergartens, libraries, hospitals, churches, and parks), economic infrastructure (including stores, banks, and grain elevators), transport and logistics access (such as primary roads, cities, post offices, and hotels), and technological infrastructure (like power transmission lines and 3G/4G mobile internet coverage by Vodafone, Lifecell, Kyivstar, and Trimob)."
+}

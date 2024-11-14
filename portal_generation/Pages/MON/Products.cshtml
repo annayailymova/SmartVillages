@@ -1,0 +1,101 @@
+﻿@page
+@using MON
+@model MON.Pages.MON.Products
+
+@{
+    Layout = "Shared/_Layout";
+    ViewData["Title"] = "MON - Products";
+    GlobalViewData.Append(Model, ViewData);
+}
+
+<!-- Main Content Grid -->
+<div class="mx-auto max-w-[96rem] my-4 w-full h-full grid grid-cols-3 rounded-2xl bg-white">
+
+    <div class="col-span-1 flex flex-col border-r-2 border-[#B4C9E8]">
+        <div class="p-4 border-b-2 border-[#B4C9E8]">
+            <!-- First Dropdown: Infrastructure Group -->
+            <div class="relative mx-4 my-2 border-b-2 border-[#B4C9E8]">
+                <p class="text-md font-semibold mt-4 text-[#8181A5]">Group</p>
+                <select id="infrastructureGroup" class="w-full p-2 outline-none">
+                    @{
+                        foreach (var category in Model.Categories.Keys)
+                        {
+                            <option value="@(category.ToLower().Replace(' ', '_'))">@category</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <!-- Second Dropdown: Infrastructure (Filtered options) -->
+            <div class="relative mx-4 my-2 border-b-2 border-[#B4C9E8]">
+                <p class="text-md font-semibold mt-4 text-[#8181A5]">Component</p>
+                <select id="infrastructure" class="w-full p-2 outline-none">
+                    @{
+                        foreach (var category in Model.Categories.Keys)
+                        {
+                            foreach (var title in  Model.Categories[category])
+                            {
+                                var classname = category.ToLower().Replace(' ', '_');
+                                <option class="@classname hidden" value="@(Model.Objects[category + "+++" + title].Id)">@title</option>
+                            }
+                        }
+                    }
+                </select>
+            </div>
+        </div>
+        
+        <div class="p-4 grow">
+            <h3 class="text-md font-semibold mt-4">Description</h3>
+
+            <p id="product_description" class="text-gray-600">
+                DESCRIPTION PLACEHOLDER
+            </p>
+        </div>
+    </div>
+
+    <div id="rightPanel" class="col-span-2">
+
+        <div id="categoryContainer"
+             class="align-middle p-4 border-b-2 border-[#B4C9E8] flex flex-row">
+
+            <div id="product_title">
+                <i class="fas fa-university"></i> PLACEHOLDER_TITLE
+            </div>
+            
+            <div class="grow"></div>
+            <div>
+                <a id="product_open" href="" class="cursor-pointer p-4" title="Open in new tab" target=”_blank”>
+                    <i class="fa-solid fa-magnifying-glass"></i> Open in new tab
+                </a>
+            </div>
+            <div>
+                <a id="product_download" href="" class="cursor-pointer p-4" title="Download" download>
+                    <i class="fa-solid fa-download"></i> Download
+                </a>
+            </div>
+        </div>
+        
+        <!-- Right Side: Image Viewer -->
+        <div id="viewerContainer" class="flex items-center justify-center p-4 grow">
+
+            <!-- Banks Image -->
+            <div id="product_image_div" class="hidden my-auto">
+                <img id="product_image" src="" alt="Product Image"
+                     class="object-scale-down">
+            </div>
+            
+            <!-- RDI Interactive Map -->
+            <div id="product_iframe_div" class="hidden w-full my-auto">
+                <div id="iframe_warning">
+                    <blockquote class="text-center">
+                        <span style="color: #d19922"><i class="fa-solid fa-triangle-exclamation"></i> WARNING</span> If you see a black rectangle, try using a different browser, download the product or open it in a new tab.
+                    </blockquote>
+                </div>
+                
+                <iframe id="product_iframe" src="" style="aspect-ratio: 1.4141; width: 100%; height: auto;"></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="@ViewData["ResourcesUrl_Js"]/mon_products.js"></script>

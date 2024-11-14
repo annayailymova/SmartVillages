@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Transport and Logistics",
+    "Title": "Post offices",
+    "Id": "poshta",
+    "Icon": "fa-solid fa-envelopes-bulk",
+    "Iframe": "",
+    "Image": "../products/MON/poshta.png",
+    "Description": "This heatmap shows the number of post offices within a 10-kilometer radius, based on data sourced from Nova Poshta and Ukrposhta API as of 2023.<br><br>Branches are available in nearly all settlements in Ukraine, excluding occupied territories. Distribution is relatively even, except for larger cities, where higher population density leads to greater demand for post services."
+}

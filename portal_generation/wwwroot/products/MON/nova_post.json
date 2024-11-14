@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Transport and Logistics",
+    "Title": "Nova Poshta",
+    "Id": "nova_post",
+    "Icon": "fa-solid fa-envelopes-bulk",
+    "Iframe": "",
+    "Image": "../products/MON/nova_post.png",
+    "Description": "This heatmap shows the number of Nova Poshta branches within a 10-kilometer radius, based on data sourced from Nova Poshta API as of 2023.<br><br>Branches are available in nearly all settlements in Ukraine, excluding occupied territories. Distribution is relatively even, except for larger cities, where higher population density leads to greater demand for Nova Poshta services."
+}

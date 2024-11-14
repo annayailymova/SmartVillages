@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Socio-cultural Infrastructure",
+    "Title": "Churches",
+    "Id": "churches",
+    "Icon": "fas fa-church",
+    "Iframe": "",
+    "Image": "../products/MON/heat_church.png",
+    "Description": "This heatmap shows the number of churches within a 10-kilometer radius, based on data sourced from OpenStreetMap as of 2023.<br><br>It is easy to notice that western regions have a high concentration of churches, both in urban and rural areas. In contrast, eastern regions exhibit relatively low church density, with vast areas devoid of churches. However, regional centers tend to have a significant number of churches regardless of their rural surroundings.<br><br>This pattern may be linked to historical and cultural factors, as the western regions traditionally have stronger religious traditions. Urbanization and demographic factors explain the high concentration of churches in large cities and the lower numbers in rural areas, particularly in central and eastern regions. Western regions are more rural, while eastern regions, with more industrial cities, have fewer rural communities, reducing the demand for churches."
+}

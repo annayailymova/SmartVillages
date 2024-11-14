@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Technological Infrastructure",
+    "Title": "Vodafone 3G",
+    "Id": "v_3g",
+    "Icon": "fas fa-signal",
+    "Iframe": "",
+    "Image": "../products/MON/v_3g.png",
+    "Description": "This map shows the 3G coverage of the Vodafone mobile network, based on data sourced from MobUA as of 2023.<br><br>The map shows that 3G coverage is well developed in many parts of Ukraine, particularly in the central, northern, and western regions. Eastern regions have coverage, but it is less dense. In the south and southwest, particularly in coastal areas, there are large zones with good coverage. Occupied territories, such as Crimea and parts of Donetsk and Luhansk regions, do not have coverage.<br><br>Overall, Vodafone provides a significant 3G coverage area, ensuring connectivity in both large cities and many rural areas."
+}

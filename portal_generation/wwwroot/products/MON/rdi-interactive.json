@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Rural Development",
+    "Title": "Rural Development Index (MCDM) - Interactive",
+    "Id": "rdi-interactive",
+    "Icon": "fas fa-map",
+    "Iframe": "../products/MON/rdi_mcdm_interactive.html",
+    "Image": "",
+    "Description": "This is an interactive map of Rural Development Index (RDI) values for settlements in rural areas, based on <b>multi-criteria decision-making</b>. By hovering over points on the map, you can see the settlement name, postal code, and RDI value.<br><br>Nearly half of rural areas in Ukraine (41.20% or 11692 villages) have a very low development level. Almost one-third (27.16% or 7707 villages) have a moderate development level. Fifth part (20.14%, 5715) of villages have low development. High and very high development level is observed in (8.47%, 2405 villages) and (3.03%, 861 villages) correspondingly.<br><br>The map was developed using a multi-criteria decision-making (MCDM) framework that incorporates pairwise comparison and weighted linear combination (WLC) methods. This approach calculates the weighted sum of various criteria, where weights were determined by an expert taking into account the importance of each criterion for the rural development. The criteria include normalized proximity to socio-cultural infrastructure (such as schools, kindergartens, libraries, hospitals, churches, and parks), economic infrastructure (including stores, banks, and grain elevators), transport and logistics access (such as primary roads, cities, post offices, and hotels), and technological infrastructure (like power transmission lines and 3G/4G mobile internet coverage by Vodafone, Lifecell, Kyivstar, and Trimob)."
+}

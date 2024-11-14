@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Transport and Logistics",
+    "Title": "Powerlines",
+    "Id": "powerlines",
+    "Icon": "fa-solid fa-tower-cell",
+    "Iframe": "",
+    "Image": "../products/MON/powerlines.png",
+    "Description": "This map shows the distribution of powerlines in Ukraine, based on data sourced from OpenStreetMap as of 2024."
+}

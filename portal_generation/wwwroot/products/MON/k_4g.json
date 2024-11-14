@@ -1,0 +1,9 @@
+{
+    "Supcategory": "Technological Infrastructure",
+    "Title": "Kyivstar 4G",
+    "Id": "k_4g",
+    "Icon": "fas fa-signal",
+    "Iframe": "",
+    "Image": "../products/MON/k_4g.png",
+    "Description": "This map shows the 4G coverage of the Kyivstar mobile network, based on data sourced from MobUA as of 2023.<br><br>The map demonstrates that 4G is available in nearly all parts of Ukraine, except for temporarily occupied territories."
+}

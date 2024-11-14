@@ -1,0 +1,106 @@
+﻿@page
+@using MON
+@model MON.Pages.MONPage
+
+@{
+Layout = "Shared/_Layout";
+
+ViewData["Title"] = "MON";
+GlobalViewData.Append(Model, ViewData);
+}
+
+<div class="max-w-7xl mx-auto my-4 space-y-4">
+    <div class="grid grid-cols-3 gap-4">
+        <div class="col-span-2 w-full rounded-2xl bg-cover bg-center"
+             style="background-image: url('images/sample_background.jpg');">
+            <div class="p-16 space-y-2">
+                <div class="text-5xl font-bold text-neutral-50" style="-webkit-text-stroke: 3px black;">
+                    Information technologies of geospatial analysis of the development of rural areas and
+                    communities
+                </div>
+            </div>
+        </div>
+
+        <div class="w-full rounded-2xl bg-white ">
+            <div class="grid grid-cols-2 border-b-2 border-[#B4C9E8]">
+                <div class="text-xl font-semibold px-8 py-4 ">Publications</div>
+                <div class="text-xl font-semibold px-8 py-4 text-blue-500 text-end cursor-pointer"
+                     onclick="switch_tab('trigger-tab-publications')">View&nbsp;&gt;</div>
+            </div>
+
+            <div class="flex flex-col ">
+                @{
+                    int counter = 0;
+                    foreach (var publication in Model.Publications)
+                    {
+                        <a class="ms-8 pe-8 my-2" href="@publication.Doi"
+                           title="@publication.Title">
+                            <p class="font-semibold truncate">@publication.Title</p>
+                            <p class="truncate">@publication.Authors</p>
+                            <p class="">@publication.Location</p>
+                        </a>
+                        
+                        counter++;
+                        if (counter == 3)
+                            break;
+                        else
+                        {
+                            <hr/>
+                        }
+                    }
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-white rounded-2xl flex flex-row px-8 py-4 space-x-8">
+        <div id="trigger-tab-description" onclick="switch_tab('trigger-tab-description')"
+             class="text-lg text-center font-bold cursor-pointer border-b-4 border-neutral-300">Description</div>
+        <div id="trigger-tab-publications" onclick="switch_tab('trigger-tab-publications')"
+             class="text-lg text-center font-bold cursor-pointer">Publications</div>
+        <a href="@ViewData["HtmlUrl_MON_Products"]"
+           class="text-lg text-center font-bold cursor-pointer">Products</a>
+    </div>
+
+    <div class="w-full rounded-2xl bg-white">
+        <div id="tab-description" class="">
+            <div class="ps-16 pe-4 pt-8 pb-4 text-2xl font-semibold border-b-2 border-[#B4C9E8]">Description</div>
+
+            <div class="ps-16 pe-16 py-4 pb-8">
+                <p>In 2020, the European Union adopted the "Digital Decade" strategy, guiding digitalization through 2030 and prioritizing sustainable development in rural areas. Ukraine, as an agrarian country with a European development trajectory, has likewise identified the digitalization and sustainable planning of rural areas as a strategic priority.</p>
+                <br>
+                <p><b>Project Goal</b>: Develop methodology and information technologies for geospatial analysis and planning of rural areas and communities. This will leverage satellite, geospatial, and socio-economic data, incorporating climate change impacts, ecological conditions, and regional economic and infrastructure characteristics.</p>
+                <br>
+                <b>Key Components</b>:
+                <ul class="ps-8 list-disc">
+                    <li><b>Cloud-Based Implementation</b>: The developed information technologies will be hosted in a cloud environment, ensuring accessibility and scalability.</li>
+                    <li><b>Interactive Dashboard</b>: Analysis results will be displayed on a dashboard, using open-source software, and tested on pilot areas. This dashboard will support decision-making in rural development and community planning.</li>
+                    <li><b>Scalability and Integration</b>: The system will offer interfaces for integration with other geoinformation systems and allow for expansion across Ukraine’s entire territory.</li>
+                </ul>
+                <br>
+                <p>This project aims to become a critical tool for advancing digitalization and sustainable development across Ukraine’s rural communities.</p>
+            </div>
+        </div>
+        <div id="tab-publications" class="hidden">
+            <div class="ps-16 pe-4 pt-8 pb-4 text-2xl font-semibold border-b-2 border-[#B4C9E8]">Publications</div>
+
+            <div class="ps-16 pe-16 py-4 pb-8">
+                <ol class="list-decimal">
+                    @{foreach (var publication in Model.Publications)
+                      {
+                          <li class="ms-8 pe-8 my-2">
+                              <p class="font-semibold">@publication.Title</p>
+                              <p class="truncate">@publication.Authors</p>
+                              <p class="">@publication.Location</p>
+                              <a href="@publication.Doi"
+                                 class="text-blue-600 dark:text-blue-500 hover:underline">@publication.Doi</a>
+                          </li>
+                      }
+                    }
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="@(ViewData["ResourcesUrl_Js"])/toggle_tabs.js"></script>

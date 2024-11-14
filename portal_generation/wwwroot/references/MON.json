@@ -1,0 +1,74 @@
+[
+    {
+        "Title": "Solar energy potential mapping in Ukraine through integration of GIS, remote sensing, and fuzzy logic",
+        "Authors": "Sofiia Drozd, Nataliia Kussul",
+        "Location": "European Journal of Remote Sensing, 2024, Vol. 57, No. 1, 2362390",
+        "Doi": "https://doi.org/10.1080/22797254.2024.2362390"
+    },
+    {
+        "Title": "Geospatial Analysis of Life Quality in Ukrainian Rural Areas",
+        "Authors": "Hanna Yailymova, Bohdan Yailymov, Nataliia Kussul, Andrii Shelestov",
+        "Location": "13th International Conference Dependable Systems, Services and Technologies (DESSERT 2023), Greece, Athens, October 13-15, 2023. pp. 1-5",
+        "Doi": "https://doi.org/10.1109/DESSERT61349.2023.10416517"
+    },
+    {
+        "Title": "Monitoring of Fires Caused by War in Ukraine Based on Satellite Data",
+        "Authors": "Bohdan Yailymov, Hanna Yailymova, Andrii Shelestov, Leonid Shumilo",
+        "Location": "13th International Conference Dependable Systems, Services and Technologies (DESSERT 2023), Greece, Athens, October 13-15, 2023. pp. 1-5",
+        "Doi": "https://doi.org/10.1109/DESSERT61349.2023.10416520"
+    },
+    {
+        "Title": "Google Earth Engine Framework for Satellite Data-Driven Wildfire Monitoring in Ukraine",
+        "Authors": "Bohdan Yailymov, Andrii Shelestov, Hanna Yailymova, Leonid Shumilo",
+        "Location": "Fire. 2023; 6(11):411",
+        "Doi": "https://doi.org/10.3390/fire6110411"
+    },
+    {
+        "Title": "Forecasting of Solar Power Plant’s Capacity Utilization Factor in Ukraine using Satellite Data and Random Forest Regression",
+        "Authors": "Drozd Sofiia, Kussul Nataliia",
+        "Location": "International symposium on applied geoinformatics 2024 (ISAG2024), 9-10 May 2024, Wroclaw, Poland, p. 2.",
+        "Doi": "https://mmda.ipt.kpi.ua/wp-content/uploads/2024/05/Forecasting-of-Solar-Power-Plants-Capacity-Utilization-Factor-in-Ukraine-using-Satellite-Data-and-Random-Forest-Regression.pdf"
+    },
+    {
+        "Title": "Graph-Based Modeling of Village Infrastructure Development",
+        "Authors": "Bohdan Potuzhnyi, Vlada Svirsh, Nataliia Kussul",
+        "Location": "International symposium on applied geoinformatics 2024 (ISAG2024), 9-10 May 2024, Wroclaw, Poland, p. 4.",
+        "Doi": "https://mmda.ipt.kpi.ua/wp-content/uploads/2024/05/Graph-Based-Modeling-of-Village-Infrastructure-Development.pdf"
+    },
+    {
+        "Title": "Integrated Geospatial Analysis for Rural Development Metrics",
+        "Authors": "Vlada Svirsh, Bohdan Potuzhnyi , Nataliia Kussul",
+        "Location": "International symposium on applied geoinformatics 2024 (ISAG2024), 9-10 May 2024, Wroclaw, Poland, p. 29.",
+        "Doi": "https://mmda.ipt.kpi.ua/wp-content/uploads/2024/05/Integrated-Geospatial-Analysis-for-Rural-Development-Metrics.pdf"
+    },
+    {
+        "Title": "Геопросторовий аналіз потенціалу територій України для розміщення сонячних електростанцій за супутниковими даними",
+        "Authors": "Куссуль Н.М., Дрозд С.Ю.",
+        "Location": "Космічна наука і технологія. 2024. Т. 30. № 1, pp. 31-43",
+        "Doi": "https://doi.org/10.15407/knit2024.01.031"
+    },
+    {
+        "Title": "Fusion of very high and moderate spatial resolution satellite data for detection and mapping of damages in agricultural fields",
+        "Authors": "Nataliia Kussul, Sophia Drozd, Sergii Skakun, Erik Duncan and Inbal Becker-Reshef",
+        "Location": "13th International Conference Dependable Systems, Services and Technologies (DESSERT 2023), Greece, Athens, October 13-15, 2023. pp. 1-7",
+        "Doi": "https://doi.org/10.1109/DESSERT61349.2023.10416533"
+    },
+    {
+        "Title": "Flooded areas monitoring below the Kakhovka Dam based on machine learning and satellite data",
+        "Authors": "Bohdan Yailymov, Hanna Yailymova, Nataliia Kussul, Andrii Shelestov",
+        "Location": "2024 IEEE International Geoscience and Remote Sensing Symposium, 7 – 12 July, 2024, Athens, Greece, pp. 1486-1489",
+        "Doi": "https://doi.org/10.1109/IGARSS53475.2024.10642248"
+    },
+    {
+        "Title": "Assessing Ukraine`s solar power potential: a comprehensive analysis using satellite data and fuzzy logic",
+        "Authors": "Sofiia Drozd, Nataliia Kussul",
+        "Location": "2024 IEEE International Geoscience and Remote Sensing Symposium, 7 – 12 July, 2024, Athens, Greece, pp. 3854-3859",
+        "Doi": "https://doi.org/10.1109/IGARSS53475.2024.10642285"
+    },
+    {
+        "Title": "Assessing damage to agricultural fields from military actions in Ukraine: An integrated approach using statistical indicators and machine learning",
+        "Authors": "Nataliia Kussul, Sofiia Drozd, Hanna Yailymova, Andrii Shelestov, Guido Lemoine, Klaus Deininger",
+        "Location": "International Journal of Applied Earth Observation and Geoinformation, Dec. 2023, Vol 125, 103562, pp. 1-21",
+        "Doi": "https://doi.org/10.1016/j.jag.2023.103562"
+    }
+]
